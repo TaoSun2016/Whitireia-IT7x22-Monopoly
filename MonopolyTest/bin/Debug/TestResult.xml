@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="E:\学习\Whitireia\GDIT\Semester1\IT7x22 SoftwareDevelopment\Assignment\Assignment-2\MonopolyTest\MonopolyTest\bin\Debug\MonopolyTest.exe" total="52" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2016-10-15" time="18:37:55">
+  <environment nunit-version="2.5.10.11092" clr-version="4.0.30319.42000" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="D:\Microsoft Visual Studio 14.0\Common7\IDE" machine-name="DESKTOP-PRHUBC6" user="think" user-domain="DESKTOP-PRHUBC6" />
+  <culture-info current-culture="zh-CN" current-uiculture="zh-CN" />
+  <test-suite type="Assembly" name="E:\学习\Whitireia\GDIT\Semester1\IT7x22 SoftwareDevelopment\Assignment\Assignment-2\MonopolyTest\MonopolyTest\bin\Debug\MonopolyTest.exe" executed="True" result="Success" success="True" time="1.466" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="MonopolyTest" executed="True" result="Success" success="True" time="1.459" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="_BankerTest" executed="True" result="Success" success="True" time="0.049" asserts="0">
+            <results>
+              <test-case name="MonopolyTest._BankerTest.TestAccess" executed="True" result="Success" success="True" time="0.025" asserts="0" />
+              <test-case name="MonopolyTest._BankerTest.TestDefaultConstructor" executed="True" result="Success" success="True" time="0.010" asserts="0" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="_BoardTest" executed="True" result="Success" success="True" time="0.585" asserts="0">
+            <results>
+              <test-case name="MonopolyTest._BoardTest.TestConstructor" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+              <test-case name="MonopolyTest._BoardTest.TestDrawChance" executed="True" result="Success" success="True" time="0.008" asserts="0" />
+              <test-case name="MonopolyTest._BoardTest.TestDrawChest" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+              <test-case name="MonopolyTest._BoardTest.TestLoad" executed="True" result="Success" success="True" time="0.155" asserts="0" />
+              <test-case name="MonopolyTest._BoardTest.TestManapulatePlayers" executed="True" result="Success" success="True" time="0.207" asserts="0" />
+              <test-case name="MonopolyTest._BoardTest.TestManapulateProperties" executed="True" result="Success" success="True" time="0.200" asserts="0" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="_CardTest" executed="True" result="Success" success="True" time="0.002" asserts="0">
+            <results>
+              <test-case name="MonopolyTest._CardTest.TestCard" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="_DiceTest" executed="True" result="Success" success="True" time="0.033" asserts="0">
+            <results>
+              <test-case name="MonopolyTest._DiceTest.TestnumberLastRolled" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+              <test-case name="MonopolyTest._DiceTest.TestRoll" executed="True" result="Success" success="True" time="0.021" asserts="0">
+                <reason>
+                  <message><![CDATA[]]></message>
+                </reason>
+              </test-case>
+              <test-case name="MonopolyTest._DiceTest.TestToString" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="_FreeCardTest" executed="True" result="Success" success="True" time="0.021" asserts="0">
+            <results>
+              <test-case name="MonopolyTest._FreeCardTest.TestExecuation" executed="True" result="Success" success="True" time="0.008" asserts="0" />
+              <test-case name="MonopolyTest._FreeCardTest.TestTradeFreeCard" executed="True" result="Success" success="True" time="0.006" asserts="0" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="_GameTest" executed="True" result="Success" success="True" time="0.003" asserts="0">
+            <results>
+              <test-case name="MonopolyTest._GameTest.TestPlayOneGame" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="_InitialValueTest" executed="True" result="Success" success="True" time="0.013" asserts="0">
+            <results>
+              <test-case name="MonopolyTest._InitialValueTest.TestGetBankerStartBalance" executed="True" result="Success" success="True" time="0.004" asserts="0" />
+              <test-case name="MonopolyTest._InitialValueTest.TestGetPlayerStartBalance" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="_LuckFactoryTest" executed="True" result="Success" success="True" time="0.003" asserts="0">
+            <results>
+              <test-case name="MonopolyTest._LuckFactoryTest.TestCrate" executed="True" result="Success" success="True" time="0.002" asserts="0" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="_LuckTest" executed="True" result="Success" success="True" time="0.011" asserts="0">
+            <results>
+              <test-case name="MonopolyTest._LuckTest.TestConstructor" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+              <test-case name="MonopolyTest._LuckTest.TestLandon" executed="True" result="Success" success="True" time="0.003" asserts="0" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="_MovingCardTest" executed="True" result="Success" success="True" time="0.014" asserts="0">
+            <results>
+              <test-case name="MonopolyTest._MovingCardTest.TestMovingCared" executed="True" result="Success" success="True" time="0.012" asserts="0" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="_PaymentCardTest" executed="True" result="Success" success="True" time="0.009" asserts="0">
+            <results>
+              <test-case name="MonopolyTest._PaymentCardTest.TestPaymentCard" executed="True" result="Success" success="True" time="0.007" asserts="0" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="_PlayerTest" executed="True" result="Success" success="True" time="0.447" asserts="0">
+            <results>
+              <test-case name="MonopolyTest._PlayerTest.TestActive" executed="True" result="Success" success="True" time="0.004" asserts="0" />
+              <test-case name="MonopolyTest._PlayerTest.TestEvent" executed="True" result="Success" success="True" time="0.008" asserts="0" />
+              <test-case name="MonopolyTest._PlayerTest.TestMove" executed="True" result="Success" success="True" time="0.230" asserts="0" />
+              <test-case name="MonopolyTest._PlayerTest.TestString" executed="True" result="Success" success="True" time="0.185" asserts="0" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="_RepairCardTest" executed="True" result="Success" success="True" time="0.003" asserts="0">
+            <results>
+              <test-case name="MonopolyTest._RepairCardTest.TestRepair" executed="True" result="Success" success="True" time="0.002" asserts="0" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="_ResidentialFactoryTest" executed="True" result="Success" success="True" time="0.001" asserts="0">
+            <results>
+              <test-case name="MonopolyTest._ResidentialFactoryTest.TestCreate" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="_ResidentialTest" executed="True" result="Success" success="True" time="0.067" asserts="0">
+            <results>
+              <test-case name="MonopolyTest._ResidentialTest.TestAddAndReducehouse" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+              <test-case name="MonopolyTest._ResidentialTest.TestConstructor" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+              <test-case name="MonopolyTest._ResidentialTest.TestGet" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="_TradablePropertyTest" executed="True" result="Success" success="True" time="0.030" asserts="0">
+            <results>
+              <test-case name="MonopolyTest._TradablePropertyTest.TestDefaultConstructor" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+              <test-case name="MonopolyTest._TradablePropertyTest.TestLandon" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+              <test-case name="MonopolyTest._TradablePropertyTest.TestMortgage" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+              <test-case name="MonopolyTest._TradablePropertyTest.TestPayrent" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+              <test-case name="MonopolyTest._TradablePropertyTest.TestProperty" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+              <test-case name="MonopolyTest._TradablePropertyTest.TestPropertyFactory" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+              <test-case name="MonopolyTest._TradablePropertyTest.TestPurchase" executed="True" result="Success" success="True" time="0.004" asserts="0" />
+              <test-case name="MonopolyTest._TradablePropertyTest.TestSetOwnerAndAvailable" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="_TraderTest" executed="True" result="Success" success="True" time="0.023" asserts="0">
+            <results>
+              <test-case name="MonopolyTest._TraderTest.TestCheckBankrupt" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+              <test-case name="MonopolyTest._TraderTest.TestConstructorWithParameter" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+              <test-case name="MonopolyTest._TraderTest.TestDefaultConstructor" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+              <test-case name="MonopolyTest._TraderTest.TestObtainProperty" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+              <test-case name="MonopolyTest._TraderTest.TestPayAndReceive" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+              <test-case name="MonopolyTest._TraderTest.TestSetFunctions" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+              <test-case name="MonopolyTest._TraderTest.TesttradeProperty" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="_TransportFactoryTest" executed="True" result="Success" success="True" time="0.001" asserts="0">
+            <results>
+              <test-case name="MonopolyTest._TransportFactoryTest.TestCreate" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="_TransportTest" executed="True" result="Success" success="True" time="0.001" asserts="0">
+            <results>
+              <test-case name="MonopolyTest._TransportTest.TestConstructor" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="_UtilityFactoryTest" executed="True" result="Success" success="True" time="0.002" asserts="0">
+            <results>
+              <test-case name="MonopolyTest._UtilityFactoryTest.TestCreate" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="_UtilityTest" executed="True" result="Success" success="True" time="0.010" asserts="0">
+            <results>
+              <test-case name="MonopolyTest._UtilityTest.TestConstructor" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+              <test-case name="MonopolyTest._UtilityTest.TestLandOn" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+              <test-case name="MonopolyTest._UtilityTest.TestPayRent" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

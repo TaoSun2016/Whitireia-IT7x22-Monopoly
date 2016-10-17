@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1102]MonopolyTest</TopNode>
+  <SelectedNode>[0-1102]MonopolyTest</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1101]E:\学习\Whitireia\GDIT\Semester1\IT7x22 SoftwareDevelopment\Assignment\Assignment-2\MonopolyTest\MonopolyTest\bin\Debug\MonopolyTest.exe" Expanded="true" />
+    <Node UniqueName="[0-1102]MonopolyTest" Expanded="true" />
+    <Node UniqueName="[0-1000]MonopolyTest._BankerTest" Expanded="true" />
+    <Node UniqueName="[0-1003]MonopolyTest._BoardTest" Expanded="true" />
+    <Node UniqueName="[0-1012]MonopolyTest._DiceTest" Expanded="true" />
+    <Node UniqueName="[0-1029]MonopolyTest._MonopolyTest" Expanded="true" />
+    <Node UniqueName="[0-1061]MonopolyTest._PlayerTest" Expanded="true" />
+  </Nodes>
+</VisualState>
