@@ -1,0 +1,10 @@
+E:\学习\Whitireia\GDIT\Semester1\IT7x22 SoftwareDevelopment\Assignment\Assignment-2\MonopolyTest\MonopolyTest\bin\Debug\MonopolyTest.exe.config
+E:\学习\Whitireia\GDIT\Semester1\IT7x22 SoftwareDevelopment\Assignment\Assignment-2\MonopolyTest\MonopolyTest\obj\Debug\MonopolyTest.csprojResolveAssemblyReference.cache
+E:\学习\Whitireia\GDIT\Semester1\IT7x22 SoftwareDevelopment\Assignment\Assignment-2\MonopolyTest\MonopolyTest\bin\Debug\MonopolyTest.exe
+E:\学习\Whitireia\GDIT\Semester1\IT7x22 SoftwareDevelopment\Assignment\Assignment-2\MonopolyTest\MonopolyTest\bin\Debug\MonopolyTest.pdb
+E:\学习\Whitireia\GDIT\Semester1\IT7x22 SoftwareDevelopment\Assignment\Assignment-2\MonopolyTest\MonopolyTest\bin\Debug\Monopoly.exe
+E:\学习\Whitireia\GDIT\Semester1\IT7x22 SoftwareDevelopment\Assignment\Assignment-2\MonopolyTest\MonopolyTest\bin\Debug\nunit.framework.dll
+E:\学习\Whitireia\GDIT\Semester1\IT7x22 SoftwareDevelopment\Assignment\Assignment-2\MonopolyTest\MonopolyTest\bin\Debug\nunit.framework.xml
+E:\学习\Whitireia\GDIT\Semester1\IT7x22 SoftwareDevelopment\Assignment\Assignment-2\MonopolyTest\MonopolyTest\obj\Debug\MonopolyTest.exe
+E:\学习\Whitireia\GDIT\Semester1\IT7x22 SoftwareDevelopment\Assignment\Assignment-2\MonopolyTest\MonopolyTest\obj\Debug\MonopolyTest.pdb
+E:\学习\Whitireia\GDIT\Semester1\IT7x22 SoftwareDevelopment\Assignment\Assignment-2\MonopolyTest\MonopolyTest\bin\Debug\Monopoly.pdb
